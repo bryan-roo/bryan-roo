@@ -4,13 +4,6 @@
 
 <hr/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bryan-ro&show_icons=true&count_private=true&hide_border=true&title_color=2fe6e1&icon_color=2fe6e1&text_color=c9d1d9&bg_color=0d1117" alt="Bryan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-ro&layout=compact&hide_border=true&title_color=2fe6e1&text_color=2fe6e1&bg_color=0d1117" />
-</div>
-
-<hr/>
-
 ### 🚀 Main Skills:
 
 **Languages**
@@ -40,6 +33,18 @@
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
 
 <hr/>
+
+### Work Experience
+
+In the overview below you will find my most recent work experience:
+
+[<img align="left" height="94px" width="94px" alt="Accenture" src="https://companieslogo.com/img/orig/ACN-cce5b411.png?t=1720244490"/>](https://www.accenture.com/)
+
+**Custom Software Engineer** \
+[**Accenture**](https://www.accenture.com/) • Intern \
+Languages & Technologies: `Java`, `Spring`, `AWS`, `Azure`, `Salesforce`, `Apex` \
+<br clear="left"/>
+<br/>
 
 ### 📫 Contact:
 
